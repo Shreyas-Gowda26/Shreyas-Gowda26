@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Shreyas G.
 # 💫 About Me:
-🔭 I’m currently working at https://share.google/Z5cZ8aDnSV5wKBgLt<br>🌱 I’m currently learning Agentic AI
+🔭 I’m currently working at https://hackculture.io/<br>🌱 I’m currently learning Agentic AI
 
 
 ## 🌐 Socials:
