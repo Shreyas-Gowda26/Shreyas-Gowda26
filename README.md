@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Shreyas G.
+## Hi there 👋 I'm Shreyas G
 # 💫 About Me:
 🔭 I’m currently working at [hackculture.io](https://hackculture.io)<br>
 
