@@ -1,6 +1,6 @@
 ## Hi there  I'm Shreyas G
 # 💫 About Me:
-🔭 I’m currently working at [hackculture](https://hackculture.io)<br>
+🔭 I’m currently working at [hackculture.io](https://hackculture.io)<br>
 
 
 ## 🌐 Socials:
