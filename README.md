@@ -1,7 +1,7 @@
 ## Hi there  I'm Shreyas G
 # 💫 About Me:
 🔭 I’m currently working at [hackculture.io](https://hackculture.io)<br>
-
+I'm currently learning ML 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-g-gowda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasg2526@gmail.com) 
