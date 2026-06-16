@@ -1,6 +1,8 @@
 ## Hi there  I'm Shreyas G
 # 💫 About Me:
-I'm currently working @(https://hackculture.io/)<br>I'm currently learning System Design and LLM's<br>
+💼 SDET Intern @ [HackCulture](https://hackculture.io)
+
+🚀 Exploring System Design, Distributed Systems, and Large Language Models (LLMs)
 
 
 ## 🌐 Socials:
