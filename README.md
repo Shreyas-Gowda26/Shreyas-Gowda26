@@ -16,5 +16,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyas-Gowda26&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shreyas-Gowda26&icon=2&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shreyas-Gowda26&label=Profile%20Views&color=blue&style=flat)](https://visitcount.itsvg.in)
 
