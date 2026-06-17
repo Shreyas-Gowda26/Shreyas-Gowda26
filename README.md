@@ -2,7 +2,7 @@
 # 💫 About Me:
 💼 SDET Intern @ [HackCulture](https://hackculture.io)
 
-🚀 Exploring System Design, Distributed Systems, and Large Language Models (LLMs)
+🚀 Exploring System Design and Large Language Models (LLMs)
 
 
 ## 🌐 Socials:
