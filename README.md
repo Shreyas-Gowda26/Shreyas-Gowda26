@@ -1,6 +1,5 @@
 ## Hi there  I'm Shreyas G
 # 💫 About Me:
-💼 SDET Intern @ [HackCulture](https://hackculture.io)
 
 🚀 Exploring System Design and Large Language Models (LLMs)
 
