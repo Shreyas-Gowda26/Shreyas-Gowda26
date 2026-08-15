@@ -1,7 +1,7 @@
 ## Hi there  I'm Shreyas G
 # 💫 About Me:
 
-🚀 Exploring System Design and Large Language Models (LLMs)
+🚀 Exploring System Design and multi ai agents.
 
 
 ## 🌐 Socials:
